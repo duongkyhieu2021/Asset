@@ -1,0 +1,65 @@
+# @format
+
+name: sea_hr
+description: A new Flutter project.
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.0.0-112.0.dev <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  get:
+  get_storage:
+
+  #odoo_rpc: ^0.5.1
+  #odoo_repository: ^0.5.6
+  equatable: ^2.0.5
+  hive: ^2.2.3
+  crypto: ^3.0.2
+  path_provider: ^2.0.12
+
+  animate_do: ^3.0.2
+  permission_handler: ^10.2.0
+  location: ^4.2.0
+  geocoding: ^2.0.5
+  ntp: ^2.0.0
+  dropdown_search: ^5.0.6
+
+  dropdown_button2: ^1.9.3
+  rounded_loading_button: ^2.1.0
+  cached_network_image: ^3.2.3
+  fluttertoast: ^8.1.1
+  collection: ^1.17.0
+  async: ^2.10.0
+  signature: ^5.3.0
+  connectivity_plus: ^3.0.3
+  multi_select_flutter: ^4.1.3
+  dart_ipify: ^1.1.1
+  intl: ^0.18.0
+  syncfusion_flutter_calendar: ^21.1.35
+  geolocator: ^9.0.2
+  image_picker: ^0.8.7+1
+  syncfusion_localizations: ^21.1.38
+  flutter_localization: ^0.1.10
+  flutter_phoenix: ^1.1.1
+  dropdown_textfield: ^1.0.8
+  mutex: ^3.0.1
+  logger: ^1.3.0
+
+  flutter_barcode_scanner: ^2.0.0
+  expansion_widget: ^0.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/

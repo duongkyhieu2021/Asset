@@ -1,2 +1,3 @@
-# Asset
-Odoo Flutter Asset
+# sea_hr
+
+A new Flutter project.
